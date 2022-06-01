@@ -1,0 +1,17 @@
+c:\users\ayman\onedrive\documents\visual studio 2015\Projects\School App\School App\bin\Debug\School App.exe.config
+c:\users\ayman\onedrive\documents\visual studio 2015\Projects\School App\School App\bin\Debug\School App.exe
+c:\users\ayman\onedrive\documents\visual studio 2015\Projects\School App\School App\bin\Debug\School App.pdb
+c:\users\ayman\onedrive\documents\visual studio 2015\Projects\School App\School App\obj\Debug\School App.csprojResolveAssemblyReference.cache
+c:\users\ayman\onedrive\documents\visual studio 2015\Projects\School App\School App\obj\Debug\School_App.Form1.resources
+c:\users\ayman\onedrive\documents\visual studio 2015\Projects\School App\School App\obj\Debug\School_App.Properties.Resources.resources
+c:\users\ayman\onedrive\documents\visual studio 2015\Projects\School App\School App\obj\Debug\School App.csproj.GenerateResource.Cache
+c:\users\ayman\onedrive\documents\visual studio 2015\Projects\School App\School App\obj\Debug\School App.exe
+c:\users\ayman\onedrive\documents\visual studio 2015\Projects\School App\School App\obj\Debug\School App.pdb
+c:\users\ayman\onedrive\documents\visual studio 2015\Projects\School App\School App\obj\Debug\School_App.MenuItem.resources
+c:\users\ayman\onedrive\documents\visual studio 2015\Projects\School App\School App\obj\Debug\School_App.AddStudent.resources
+c:\users\ayman\onedrive\documents\visual studio 2015\Projects\School App\School App\obj\Debug\School_App.ListOfStudents.resources
+c:\users\ayman\onedrive\documents\visual studio 2015\Projects\School App\School App\obj\Debug\School_App.Settings.resources
+c:\users\ayman\onedrive\documents\visual studio 2015\Projects\School App\School App\obj\Debug\School_App.Dashboard.resources
+C:\Users\ayman\onedrive\documents\visual studio 2015\Projects\School App\School App\obj\Debug\School_App.REPORTS.resources
+C:\Users\ayman\onedrive\documents\visual studio 2015\Projects\School App\School App\obj\Debug\School_App.PERSON.resources
+C:\Users\ayman\onedrive\documents\visual studio 2015\Projects\School App\School App\obj\Debug\School_App.Certificat.resources
